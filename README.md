@@ -62,3 +62,26 @@ Hey Alex, you're 20 years old with a BMI of 22.20 (Normal weight) and you got a 
 - Use `std::fixed` and `std::setprecision(2)` (from `<iomanip>`) to format the BMI output.
 - Validate inputs where appropriate (e.g., non-negative height/weight, score between 0 and 100).
 - Keep the program interactive with clear prompts.
+
+
+My inputs
+
+# CIS 5 Assignment 2 – Winter 26
+
+## Summary
+This program introduces more information using C++. It asks the user for basic input and displays information about their age, weight bmi, height and grades interests, using  cin and cout.
+
+## How It Works
+I forked the original repository, created a main.cpp file, and wrote a simple C++ program using input and output. I used cin to gather user input and cout to display messages to the screen.
+
+## Video Introduction and Explaination 
+https://share.icloud.com/photos/02aLDOTGPx9RyzM0uUfCDcAdw
+
+## Code Practice Video
+https://share.icloud.com/photos/0f12LNoniTpb5D1UhagjUZScQ
+
+## Working Code Video
+https://share.icloud.com/photos/039KiyjVNmPPfMzkJRy-NaqJA
+
+## Copy of ChatGpT Conversation
+https://chatgpt.com/share/69680972-9804-8002-a45c-326476c0d2bc
